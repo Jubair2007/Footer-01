@@ -8,14 +8,19 @@ body{
     justify-content: space-between;
 }
 .btn-01{
-    padding-right: 150px;
+    padding-left: 140px;
+}
+.title{
+    font-size: 25px;
+    font-family: sans-serif;
 }
 .btn-02{
     border-radius: 18px;
-    padding: 10px 15px;
+    padding: 10px 20px;
     background: #73D82D;
     border: none;
-
+    font-size: 18px;
+    
 }
 .btn-03{
     border-radius: 18px;
@@ -23,4 +28,20 @@ body{
     border: none;
     background: white;
     border: 1px solid rgb(39, 39, 39);
+    font-size: 20px;
+}
+.center{
+    align-items: center;
+    gap: 5px;
+}
+.pd-dada{
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+.hr-line{
+    background-color: #73D82D;
+}
+.hr-line{
+    background: #73D82D;
+    padding-bottom: 08px;
 }
